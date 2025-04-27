@@ -14,7 +14,7 @@ def main():
          
     print(choi.get_sum())
     print(park.get_sum())
-   # print(choi.get_grad_sum())
+   ## print(choi.get_grad_sum())
 
 
 if __name__ == "__main__":
